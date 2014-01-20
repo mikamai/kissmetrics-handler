@@ -23,7 +23,7 @@ Simply download the ZIP file and extract it in the PrestaShop modules directory 
 ## Usage
 
 Search the module in the module list in the BO (i.e. Back Offie) of your store and install it.
-Put the JS give it to you by KISSmetrics between the literal tags (i.e. {literal}{/literl}) in the head.tpl.
+Put the JS give it to you by KISSmetrics between the literal tags (i.e. {literal}{/literl}) in the head.tpl file.
 
 ## Contributing
 
