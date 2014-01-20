@@ -1,0 +1,3 @@
+<!-- KISSmetrics Head -->
+{literal}
+{/literal}
